@@ -16,7 +16,6 @@ body {
 /* Header with Background Image */
 header {
     background: url('bg-img.jpg') no-repeat center center/cover;
-    color: #fff;
     padding: 50px 0;
     text-align: center;
     position: relative;
